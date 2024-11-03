@@ -4,9 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-wilmer-salazar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilmerhenrysalazarmartinez@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](TuPortfolio)
-
-![Visitas al perfil](https://komarev.com/ghpvc/?username=wkatir&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
 
 ## 💫 Sobre mí
 
@@ -16,13 +13,12 @@ const wilmer = {
     tecnologías: {
         frontEnd: {
             js: ["React"],
-            css: ["Tailwind CSS", "Bootstrap"]
+            css: ["Tailwind CSS"]
         },
         backEnd: {
             java: ["Spring Boot"],
         },
-        databases: ["MySQL"],
-        herramientas: ["Git", "GitHub", "VS Code", "Postman"]
+        herramientas: ["Git", "GitHub", "VS Code", "Insomnia"]
     },
     educación: {
         universidad: "Universidad Francisco Gavidia (UFG)",
@@ -42,24 +38,20 @@ const wilmer = {
 ## 🚀 Tecnologías y Herramientas
 
 ### 👨‍💻 Lenguajes de Programación
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🎨 Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔧 Herramientas
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ## 📚 Formación Académica
 
@@ -79,7 +71,7 @@ const wilmer = {
 [![Email](https://img.shields.io/badge/Email-wilmerhenrysalazarmartinez@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:wilmerhenrysalazarmartinez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilmer_Salazar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/-wilmer-salazar/)
 
-### 🌟 Si te gusta lo que hago, no dudes en seguirme y ¡conectemos! 
+> "El código es como el humor. Cuando tienes que explicarlo, probablemente sea malo."
 
 ---
 ⭐️ From [wkatir](https://github.com/wkatir)
