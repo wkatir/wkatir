@@ -39,7 +39,7 @@ Lightning payments (BOLT12, LnURL, Breez SDK), Liquid and RGB.
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [**ryne**](https://github.com/wkatir/ryne) | Self-hosted control plane for AI agents that act on Bitcoin. Governs what agents can do without ever holding keys. | TypeScript, Lightning |
+| [**honeybadger-ai**](https://github.com/wkatir/honeybadger-ai) | Self-hosted control plane for AI agents that act on Bitcoin. Governs what agents can do without ever holding keys. | TypeScript, Lightning |
 | [**planb-tether-mdk-mining-ai**](https://github.com/wkatir/planb-tether-mdk-mining-ai) | Predictive maintenance and optimization for Bitcoin mining fleets. ML first, LLM on top. | Python, ML |
 | [**pisto-app**](https://github.com/wkatir/pisto-app) | AI-native financial management for Salvadoran small businesses, with an assistant that answers questions about your own books. | Flutter, Hono, PostgreSQL |
 | [**nemotron-atlas-sv**](https://github.com/wkatir/nemotron-atlas-sv) | Market sizing for El Salvador on 2024 Census data, with AI-generated narrative. | TypeScript, NVIDIA Nemotron |
